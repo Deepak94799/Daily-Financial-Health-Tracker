@@ -15,8 +15,11 @@ Net Balance: Difference between credits and debits.
 Transaction Analysis: Insights into credit and debit transactions.
 Recurring Payments: Analysis of recurring financial commitments.
 Transaction Categories: Breakdown of spending by category.
-Steps Followed
-Data Preparation:
+
+**Steps Followed
+**
+
+**1. Data Preparation:**
 
 Imported data into Power BI.
 Reviewed data quality and addressed missing values.
