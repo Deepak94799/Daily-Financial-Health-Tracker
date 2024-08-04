@@ -1,3 +1,5 @@
+## Daily Financial Health Tracker Dashboard
+
 ## How to Use the Dashboard
 
 1. **Access the Dashboard:**
