@@ -18,8 +18,8 @@ Transaction Categories: Breakdown of spending by category.
 
 **1. Data Preparation:**
 
-Imported data into Power BI.
-Reviewed data quality and addressed missing values.
+* Imported data into Power BI.
+* Reviewed data quality and addressed missing values.
 
 **2. Visual Creation:
 **
@@ -45,14 +45,14 @@ Peaks in transactions and increasing recurring payments noted.
 **Quarterly Summary:
 **
 
-Q1: 0.04M
-Q2: 0.25M
-Q3: 0.05M
-Q4: 0.15M
+* Q1: 0.04M
+* Q2: 0.25M
+* Q3: 0.05M
+* Q4: 0.15M
 
 **Advanced Insights:
 **
 
-Seasonal trends show increased spending in Q4.
-Rising recurring payments may impact liquidity.
-Net balance trends indicate potential cash flow issues.
+* Seasonal trends show increased spending in Q4.
+* Rising recurring payments may impact liquidity.
+* Net balance trends indicate potential cash flow issues.
