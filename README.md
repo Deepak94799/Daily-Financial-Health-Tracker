@@ -16,16 +16,14 @@ Transaction Analysis: Insights into credit and debit transactions.
 Recurring Payments: Analysis of recurring financial commitments.
 Transaction Categories: Breakdown of spending by category.
 
-**Steps Followed
-**
-
 **1. Data Preparation:**
 
 Imported data into Power BI.
 Reviewed data quality and addressed missing values.
 
-**Visual Creation:
+**2. Visual Creation:
 **
+
 * Displayed key metrics using card visuals.
 * Analyzed transactions with pie, bar, line, and column charts.
 * Applied filters, themes, and designs.
@@ -33,16 +31,20 @@ Reviewed data quality and addressed missing values.
 
 **Key Metrics:
 **
+
 * Total Balance: 48.01M
 * Running Balance: -4.54K
 * Daily Average Balance: 6.01K
 * Net Balance: -4.54K
 * Monthly Summary: Highlights fluctuations in running balances and sums from August to December.
 
-**Transaction Analysis:** Peaks in transactions and increasing recurring payments noted.
+**Transaction Analysis:** 
+
+Peaks in transactions and increasing recurring payments noted.
 
 **Quarterly Summary:
 **
+
 Q1: 0.04M
 Q2: 0.25M
 Q3: 0.05M
@@ -50,6 +52,7 @@ Q4: 0.15M
 
 **Advanced Insights:
 **
+
 Seasonal trends show increased spending in Q4.
 Rising recurring payments may impact liquidity.
 Net balance trends indicate potential cash flow issues.
